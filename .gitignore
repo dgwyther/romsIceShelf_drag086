@@ -1,0 +1,7 @@
+# Output NetCDF files #
+#######################
+*.nc
+
+# Log files #
+#############
+*.log
